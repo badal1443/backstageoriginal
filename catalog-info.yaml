@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstageoriginal
+  annotations:
+    github.com/project-slug: badal1443/backstageoriginal
+spec:
+  type: other
+  lifecycle: unknown
+  owner: badal1443
